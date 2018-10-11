@@ -44,3 +44,24 @@
 </div>
 </span>
 </template>
+
+<style lang="sass">
+  .card
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10px;
+
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; /* future proofing */
+    -khtml-border-radius: 10px; /* for old Konqueror browsers */
+  .box
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10px;
+
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; /* future proofing */
+    -khtml-border-radius: 10px; /* for old Konqueror browsers */
+</style>
